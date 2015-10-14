@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E2B1B74-361E-4805-9AA7-BD09BCF43FDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Anup</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>917E5C5D8FEE79C6C18BA5799FA9E046F7CFEFAC</key>
+		<string>https://github.com/thebigmike77/Anup.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Anup.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>917E5C5D8FEE79C6C18BA5799FA9E046F7CFEFAC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thebigmike77/Anup.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>917E5C5D8FEE79C6C18BA5799FA9E046F7CFEFAC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>917E5C5D8FEE79C6C18BA5799FA9E046F7CFEFAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Anup</string>
+		</dict>
+	</array>
+</dict>
+</plist>
